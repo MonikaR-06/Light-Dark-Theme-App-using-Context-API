@@ -1,0 +1,18 @@
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.btn {
+  border: 2px solid black !important;
+  width: 550px !important;
+  padding: 0.1px;
+  border-radius: 25px;
+}
+
+img {
+  border-radius: 0px 0px 25px 25px;
+}
